@@ -20,7 +20,7 @@ Set in a fictional Christian café where the windows glow with morning light, th
 This isn’t a course. It’s not a bootcamp.  
 It’s a slow-burning story unfolding in the background of jazz, cortados, and blinking terminal prompts.
 
-> _I’m learning Python through missions disguised as conversations.  
+I’m learning Python through missions disguised as conversations.  
 Slack voice notes. Scribbled whiteboards. Divine interruptions._  
 The tools we build come straight from emotional chaos:  
 Restlessness, joy, prayer, and late-night debug sessions.
